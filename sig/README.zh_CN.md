@@ -34,11 +34,11 @@
 
 ### 创建步骤
 
-  您需要 Fork [如意玲珑社区组织的SIG仓库](https://github.com/OpenAtom-Linyaps/SIG)，复制此目录下 `.sig-template.zh_CN` 目录内含的文件到该目录层级的一个新目录，以小组 ID 作为该新目录的名字，并编辑此目录下的文件以使其符合您要创建的小组的实际情况，最终推送修改并发起 Pull Request。
+  您需要先 Fork [如意玲珑社区组织的SIG仓库](https://github.com/OpenAtom-Linyaps/SIG)，复制此目录下 `.sig-template.zh_CN` 目录内含的文件到该目录层级的一个新目录，以小组 ID 作为该新目录的名字，并编辑此目录下的文件以使其符合您要创建的小组的实际情况，最终推送修改并发起 Pull Request。
 
   在编辑模板信息时，请注意模板中给出的描述。在 `metadata.yml` 声明的信息会被公开呈现，其中列出的成员将被邀请加入 如意玲珑社区 组织[ OpenAtom-Linyaps ](https://github.com/OpenAtom-Linyaps)。
 
-  在发起 Pull Request 时，请以 `[新 SIG 提案] SIG 名称` 为格式作为 Pull Request 的标题，并按下面段落的格式，在描述区域提供小组的创建原因以及在`metadata.yml`中提供 SIG小组 管理员 GitHub 账号信息。
+  在发起 Pull Request 时，请以 `[新 SIG 提案] SIG 名称` 为格式作为 Pull Request 的标题，并按下面段落的格式，在描述区域提供小组的创建原因以及在`metadata.yml`中提供 SIG小组 管理员 GitHub 账号信息；在`MEMBERS.md`中提供 SIG小组 成员的GitHub 名称及主页。
 
 ``` markdown
 ## SIG 创建原因
@@ -54,6 +54,11 @@
 
 （注：若小组不需要对应仓库，可直接删除“仓库创建”一节）
 ```
+
+  本环节所需提交的文件:
+- MEMBERS.md
+- metadata.yml
+- README.md
 
   若您或其它组员均对 GitHub 的 Pull Request 工作流程不熟悉，您也可以开启 Issue ，提供上述信息，来请求 SIG 委员会协助创建。
 
