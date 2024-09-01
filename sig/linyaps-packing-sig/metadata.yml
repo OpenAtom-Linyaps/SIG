@@ -1,0 +1,26 @@
+---
+name: Linyaps Packaging SIG
+blog: 
+rss: 
+matrix: 
+proposal:
+  by:
+    handle: ziggy1030
+    id: 39146681
+date-created: '2024/08/28'
+date-archived: '-'
+team: linyaps-packing-sig
+repos:
+  maintained:
+    - sig-linyaps-packing-sig
+  package:
+members:
+  - handle: ziggy1030
+    id: 39146681
+  - handle: superliya
+    id: 176374226
+  - handle: chenchongbiao
+    id: 52627687
+  - handle: Avenger-285714
+    id: 60058876
+
