@@ -7,20 +7,20 @@
 # date-created、date-archived分别为SIG 小组的成立、归档日期
 # 提交前请删除这些注释
 ---
-name: 填写小组名称
-blog: 博客链接（没有则留空）
-rss: 博客 RSS 订阅链接（没有则留空）
-matrix: '#example-room:example.com'（没有则留空）
+name: 三相电
+blog: 
+rss: 
+matrix: 
 proposal:
   by:
     handle: GershonWang
     id: 35024305
-date-created: '2024-09-12'
+date-created: '2024-09-22'
 date-archived: '-'
-team: sig-xxx-xxxxx
+team: sig-three-electric
 repos:
   maintained:
-    - sig-xxx-xxxxx
+    - sig-three-electric
   package:
 members:
   - handle: userhandle
