@@ -1,4 +1,4 @@
-name: 三相电
+name: 简易玲珑商店
 blog: 
 rss: 
 matrix: 
@@ -8,10 +8,10 @@ proposal:
     id: 35024305
 date-created: '2024-09-23'
 date-archived: '-'
-team: sig-three-electric
+team: sig-simple-store
 repos:
   maintained:
-    - sig-three-electric
+    - sig-simple-store
   package:
 members:
   - handle: Yoloke
