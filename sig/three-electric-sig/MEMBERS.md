@@ -2,5 +2,5 @@
 
 - [GershonWang](https://github.com/GershonWang)
 - [Yoloke](https://github.com/yoloke)
-- [github-id](主页链接)
+- [Gyro](https://github.com/bgsdmyck12)
 - [superliya](https://github.com/superliya)
