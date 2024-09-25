@@ -8,10 +8,10 @@ proposal:
     id: 35024305
 date-created: '2024-09-23'
 date-archived: '-'
-team: sig-simple-store
+team: sig-linyaps-simple-store
 repos:
   maintained:
-    - sig-simple-store
+    - sig-linyaps-simple-store
   package:
 members:
   - handle: Yoloke
