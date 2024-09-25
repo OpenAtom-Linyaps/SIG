@@ -3,7 +3,7 @@
 ## 小组简介
 
 &emsp;&emsp; 欢迎来到简易玲珑商店(Linyaps Simple Store SIG)小组。\
-&emsp;&emsp; 本小组在运营小姐姐([superliya](https://github.com/superliya))引领下，由前端开发[Yoloke](https://github.com/yoloke)、页面设计[Gyro](https://github.com/bgsdmyck12)、后台开发[Jokul](https://github.com/GershonWang)三位初创开发者联合创建。我们小组专注于玲珑商店的开发以及运营，下辖项目包括网页版商店以及客户端商店App；我们致力于让用户在多平台多架构的环境下，更方便快捷的搜索、安装、使用玲珑软件程序；为如意玲珑的普及增砖添瓦，为Linux生态的发展锦上添花。
+&emsp;&emsp; 本小组由商店运营([superliya](https://github.com/superliya))、前端开发[Yoloke](https://github.com/yoloke)、页面设计[Gyro](https://github.com/bgsdmyck12)、后台开发[Jokul](https://github.com/GershonWang)四位初创开发者联合创建。我们小组专注于玲珑商店的开发以及运营，下辖项目包括网页版商店以及客户端商店App；我们致力于让用户在多平台多架构的环境下，更方便快捷的搜索、安装、使用玲珑软件程序；为如意玲珑的普及增砖添瓦，为Linux生态的发展锦上添花。
 
 ## 活动范围与目标
 
