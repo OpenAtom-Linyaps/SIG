@@ -1,0 +1,33 @@
+name: UnionTech
+blog: null
+rss: null
+proposal:
+  issue: null
+  by:
+    handle: null
+    id: null
+data-created: '-'
+data-archived: '-'
+email-suffix: '@uniontech.com'
+team: corporate-contributor-uniontech
+repos:
+  maintained:
+    - coding-quarter
+  package: null
+members:
+  - handle: dengbo11
+    id: 79958313
+  - handle: black-desk
+    id: 29726878
+  - handle: chenchongbiao
+    id: 52627687
+  - handle: kamiyadm
+    id: 61131058
+  - handle: Comixhe
+    id: 54773474
+  - handle: myml
+    id: 13045857
+  - handle: zccrs
+    id: 13449038
+  - handle: Iceyer
+    id: 1117694
