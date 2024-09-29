@@ -1,0 +1,22 @@
+name: 简易玲珑商店
+blog: 
+rss: 
+matrix: 
+proposal:
+  by:
+    handle: GershonWang
+    id: 35024305
+date-created: '2024-09-23'
+date-archived: '-'
+team: sig-linyaps-simple-store
+repos:
+  maintained:
+    - sig-linyaps-simple-store
+  package:
+members:
+  - handle: Yoloke
+    id: 74302660
+  - handle: Gyro
+    id: 132654609
+  - handle: superliya
+    id: 176374226
