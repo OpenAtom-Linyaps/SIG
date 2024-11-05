@@ -14,9 +14,17 @@ repos:
     - sig-linyaps-simple-store
   package:
 members:
+  - handle: GershonWang
+    id: 35024305
   - handle: Yoloke
     id: 74302660
   - handle: Gyro
     id: 132654609
   - handle: superliya
     id: 176374226
+  - handle: HanHan666666
+    id: 60591430
+  - handle: SXFreell
+    id: 61399499
+  - handle: Rabbit-bear
+    id: 61727409
