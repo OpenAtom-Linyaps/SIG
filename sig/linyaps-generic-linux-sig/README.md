@@ -3,7 +3,7 @@
 
 ## 小组简介
 
-欢迎来到Linyaps Generic-Linux SIG,本小组致力于让玲珑能在deepin以外的发行版,和DDE以外的桌面环境上正常运行玲珑以及其应用,促进Linux玲珑应用生态的发展
+欢迎来到Linyaps Generic-Linux SIG,本小组致力于让玲珑能在deepin以外的发行版以及DDE以外的桌面环境上正常运行玲珑以及其应用,促进Linux玲珑应用生态的发展。
 
 ## 活动范围与目标
 
