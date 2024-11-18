@@ -1,0 +1,19 @@
+---
+name: Linyaps Linux-Generic SIG
+blog: 
+rss: 
+matrix: 
+proposal:
+  by:
+    handle: LFRon
+    id: 141307807
+date-created: '2024/11/7'
+date-archived: '-'
+team: linyaps-generic-linux-sig
+repos:
+  maintained:
+    - sig-linyaps-generic-linux-sig
+  package:
+members:
+  - handle: LFRon
+    id: 141307807
