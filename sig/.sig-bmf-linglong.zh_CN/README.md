@@ -1,4 +1,4 @@
-# bmf-linglong SIG
+# Linyaps BabitMF SIG
 
 ## 小组简介
 
@@ -52,5 +52,5 @@
 
 ## 相关链接
 
-- [GitHub 上的小组仓库](https://github.com/OpenAtom-Linyaps/sig-bmf-linglong)
+- [GitHub 上的小组仓库](https://github.com/OpenAtom-Linyaps/sig-linyaps-bmf)
 - [BMF主仓库](https://github.com/BabitMF/bmf)

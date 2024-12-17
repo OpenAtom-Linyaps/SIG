@@ -1,5 +1,5 @@
 ---
-name: BMF玲珑SIG
+name: Linyaps BabitMF SIG
 blog: 
 rss: 
 matrix: 
@@ -9,10 +9,10 @@ proposal:
     id: JackLau1222
 date-created: '2024/12/17'
 date-archived: '-'
-team: sig-bmf-linglong
+team: sig-linyaps-bmf
 repos:
   maintained:
-    - sig-bmf-linglong
+    - sig-linyaps-bmf
   package:
 members:
   - handle: https://github.com/JackLau1222
